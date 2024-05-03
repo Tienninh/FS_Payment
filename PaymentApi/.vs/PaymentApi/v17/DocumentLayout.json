@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Tienninh\\CRUD\\PaymentApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F633B7F4-CCC6-46BD-BFF2-FEA73C79CC83}|PaymentApi\\PaymentApi.csproj|d:\\tienninh\\crud\\paymentapi\\paymentapi\\controllers\\paymentdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F633B7F4-CCC6-46BD-BFF2-FEA73C79CC83}|PaymentApi\\PaymentApi.csproj|solutionrelative:paymentapi\\controllers\\paymentdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F633B7F4-CCC6-46BD-BFF2-FEA73C79CC83}|PaymentApi\\PaymentApi.csproj|d:\\tienninh\\crud\\paymentapi\\paymentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F633B7F4-CCC6-46BD-BFF2-FEA73C79CC83}|PaymentApi\\PaymentApi.csproj|solutionrelative:paymentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F633B7F4-CCC6-46BD-BFF2-FEA73C79CC83}|PaymentApi\\PaymentApi.csproj|d:\\tienninh\\crud\\paymentapi\\paymentapi\\paymentapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F633B7F4-CCC6-46BD-BFF2-FEA73C79CC83}|PaymentApi\\PaymentApi.csproj|solutionrelative:paymentapi\\paymentapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F633B7F4-CCC6-46BD-BFF2-FEA73C79CC83}|PaymentApi\\PaymentApi.csproj|d:\\tienninh\\crud\\paymentapi\\paymentapi\\models\\paymentdetailcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F633B7F4-CCC6-46BD-BFF2-FEA73C79CC83}|PaymentApi\\PaymentApi.csproj|solutionrelative:paymentapi\\models\\paymentdetailcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F633B7F4-CCC6-46BD-BFF2-FEA73C79CC83}|PaymentApi\\PaymentApi.csproj|d:\\tienninh\\crud\\paymentapi\\paymentapi\\models\\paymentdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F633B7F4-CCC6-46BD-BFF2-FEA73C79CC83}|PaymentApi\\PaymentApi.csproj|solutionrelative:paymentapi\\models\\paymentdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F633B7F4-CCC6-46BD-BFF2-FEA73C79CC83}|PaymentApi\\PaymentApi.csproj|d:\\tienninh\\crud\\paymentapi\\paymentapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F633B7F4-CCC6-46BD-BFF2-FEA73C79CC83}|PaymentApi\\PaymentApi.csproj|solutionrelative:paymentapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F633B7F4-CCC6-46BD-BFF2-FEA73C79CC83}|PaymentApi\\PaymentApi.csproj|d:\\tienninh\\crud\\paymentapi\\paymentapi\\migrations\\paymentdetailcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F633B7F4-CCC6-46BD-BFF2-FEA73C79CC83}|PaymentApi\\PaymentApi.csproj|solutionrelative:paymentapi\\migrations\\paymentdetailcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F633B7F4-CCC6-46BD-BFF2-FEA73C79CC83}|PaymentApi\\PaymentApi.csproj|d:\\tienninh\\crud\\paymentapi\\paymentapi\\migrations\\20240502033623_first migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F633B7F4-CCC6-46BD-BFF2-FEA73C79CC83}|PaymentApi\\PaymentApi.csproj|solutionrelative:paymentapi\\migrations\\20240502033623_first migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F633B7F4-CCC6-46BD-BFF2-FEA73C79CC83}|PaymentApi\\PaymentApi.csproj|d:\\tienninh\\crud\\paymentapi\\paymentapi\\paymentapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{F633B7F4-CCC6-46BD-BFF2-FEA73C79CC83}|PaymentApi\\PaymentApi.csproj|solutionrelative:paymentapi\\paymentapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F633B7F4-CCC6-46BD-BFF2-FEA73C79CC83}|PaymentApi\\PaymentApi.csproj|d:\\tienninh\\crud\\paymentapi\\paymentapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F633B7F4-CCC6-46BD-BFF2-FEA73C79CC83}|PaymentApi\\PaymentApi.csproj|solutionrelative:paymentapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PaymentDetailController.cs",
+              "DocumentMoniker": "D:\\Tienninh\\CRUD\\PaymentApi\\PaymentApi\\Controllers\\PaymentDetailController.cs",
+              "RelativeDocumentMoniker": "PaymentApi\\Controllers\\PaymentDetailController.cs",
+              "ToolTip": "D:\\Tienninh\\CRUD\\PaymentApi\\PaymentApi\\Controllers\\PaymentDetailController.cs",
+              "RelativeToolTip": "PaymentApi\\Controllers\\PaymentDetailController.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAEwEgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T03:46:01.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Tienninh\\CRUD\\PaymentApi\\PaymentApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "PaymentApi\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Tienninh\\CRUD\\PaymentApi\\PaymentApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "PaymentApi\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T03:41:58.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PaymentDetailContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\Tienninh\\CRUD\\PaymentApi\\PaymentApi\\Migrations\\PaymentDetailContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "PaymentApi\\Migrations\\PaymentDetailContextModelSnapshot.cs",
+              "ToolTip": "D:\\Tienninh\\CRUD\\PaymentApi\\PaymentApi\\Migrations\\PaymentDetailContextModelSnapshot.cs",
+              "RelativeToolTip": "PaymentApi\\Migrations\\PaymentDetailContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T03:41:50.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PaymentDetail.cs",
+              "DocumentMoniker": "D:\\Tienninh\\CRUD\\PaymentApi\\PaymentApi\\Models\\PaymentDetail.cs",
+              "RelativeDocumentMoniker": "PaymentApi\\Models\\PaymentDetail.cs",
+              "ToolTip": "D:\\Tienninh\\CRUD\\PaymentApi\\PaymentApi\\Models\\PaymentDetail.cs",
+              "RelativeToolTip": "PaymentApi\\Models\\PaymentDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T03:04:23.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaymentApi.csproj",
+              "DocumentMoniker": "D:\\Tienninh\\CRUD\\PaymentApi\\PaymentApi\\PaymentApi.csproj",
+              "RelativeDocumentMoniker": "PaymentApi\\PaymentApi.csproj",
+              "ToolTip": "D:\\Tienninh\\CRUD\\PaymentApi\\PaymentApi\\PaymentApi.csproj",
+              "RelativeToolTip": "PaymentApi\\PaymentApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-02T03:04:25.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Tienninh\\CRUD\\PaymentApi\\PaymentApi\\Program.cs",
+              "RelativeDocumentMoniker": "PaymentApi\\Program.cs",
+              "ToolTip": "D:\\Tienninh\\CRUD\\PaymentApi\\PaymentApi\\Program.cs",
+              "RelativeToolTip": "PaymentApi\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T03:04:26.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PaymentDetailContext.cs",
+              "DocumentMoniker": "D:\\Tienninh\\CRUD\\PaymentApi\\PaymentApi\\Models\\PaymentDetailContext.cs",
+              "RelativeDocumentMoniker": "PaymentApi\\Models\\PaymentDetailContext.cs",
+              "ToolTip": "D:\\Tienninh\\CRUD\\PaymentApi\\PaymentApi\\Models\\PaymentDetailContext.cs",
+              "RelativeToolTip": "PaymentApi\\Models\\PaymentDetailContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T03:46:38.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240502033623_First Migration.cs",
+              "DocumentMoniker": "D:\\Tienninh\\CRUD\\PaymentApi\\PaymentApi\\Migrations\\20240502033623_First Migration.cs",
+              "RelativeDocumentMoniker": "PaymentApi\\Migrations\\20240502033623_First Migration.cs",
+              "ToolTip": "D:\\Tienninh\\CRUD\\PaymentApi\\PaymentApi\\Migrations\\20240502033623_First Migration.cs",
+              "RelativeToolTip": "PaymentApi\\Migrations\\20240502033623_First Migration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T03:36:23.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PaymentApi.http",
+              "DocumentMoniker": "D:\\Tienninh\\CRUD\\PaymentApi\\PaymentApi\\PaymentApi.http",
+              "RelativeDocumentMoniker": "PaymentApi\\PaymentApi.http",
+              "ToolTip": "D:\\Tienninh\\CRUD\\PaymentApi\\PaymentApi\\PaymentApi.http",
+              "RelativeToolTip": "PaymentApi\\PaymentApi.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-05-02T03:41:43.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Tienninh\\CRUD\\PaymentApi\\PaymentApi\\appsettings.json",
+              "RelativeDocumentMoniker": "PaymentApi\\appsettings.json",
+              "ToolTip": "D:\\Tienninh\\CRUD\\PaymentApi\\PaymentApi\\appsettings.json",
+              "RelativeToolTip": "PaymentApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-02T03:04:26.132Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
